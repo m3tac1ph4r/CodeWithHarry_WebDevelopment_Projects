@@ -27,7 +27,7 @@ List of projects under this repository are:
 
     **What I learned making this project?**
 
-    >Responsive website. Flexbox in CSS. 
+    >Responsive website so that website can be open in any device. Flexbox in CSS. 
 
     Link: https://youtu.be/8KVrdL0VcAk
 
