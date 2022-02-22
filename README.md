@@ -31,3 +31,13 @@ List of projects under this repository are:
 
     Link: https://youtu.be/8KVrdL0VcAk
 
+
+3. #### Analog Clock
+
+    **Tech Used** : HTML,CSS,JAVASCRIPT
+    
+    Link: https://bit.ly/3Hfl3XP
+
+    **What I learned making this project?**
+
+    >The intention for making this website is to clear the basics I learned in javascript.
