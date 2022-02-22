@@ -17,7 +17,7 @@ List of projects under this repository are:
 
     >Difference between margin and padding. And selectors in CSS.
 
-    Link: https://youtu.be/Sj5NX_br5WY
+    Link: https://bit.ly/3HeDFHA
 
 2. #### Onine Food Ordering Website
 
@@ -29,8 +29,7 @@ List of projects under this repository are:
 
     >Responsive website so that website can be open in any device. Flexbox in CSS. 
 
-    Link: https://youtu.be/8KVrdL0VcAk
-
+    Link: https://bit.ly/3LS9n0J
 
 3. #### Analog Clock
 
@@ -41,4 +40,4 @@ List of projects under this repository are:
 
     >The intention for making this website is to clear the basics I learned in javascript.
     
-    Link: https://bit.ly/3Hfl3XP
+    Link: https://bit.ly/33IYIV8
