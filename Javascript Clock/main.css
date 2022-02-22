@@ -1,0 +1,30 @@
+.clock{
+    background: rgb(29, 28, 28);
+    width: 230px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 540px;
+    margin-top:230px;
+}
+
+.clock:hover{
+    cursor: pointer;
+    background-color: rgb(19, 18, 18);
+}
+
+.clock-time,
+.clock-ampm{
+    /* font-family: sans-serif; */
+    font-family: 'Concert One',cursive;
+    font-size: 35px;
+    color: antiquewhite;
+}
+
+.clock-time{
+    font-size: 55px;
+}
+
+body{
+    background-color: rgb(41, 19, 19);   
+}
