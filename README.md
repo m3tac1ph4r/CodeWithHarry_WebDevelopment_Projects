@@ -36,8 +36,9 @@ List of projects under this repository are:
 
     **Tech Used** : HTML,CSS,JAVASCRIPT
     
-    Link: https://bit.ly/3Hfl3XP
-
+    ![output_of_project](gif/digital_clock.gif)
     **What I learned making this project?**
 
     >The intention for making this website is to clear the basics I learned in javascript.
+    
+    Link: https://bit.ly/3Hfl3XP
